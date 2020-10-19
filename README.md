@@ -5,5 +5,5 @@ boostrap4, thymeleaf, jQuery
 ## back end
 Spring boot
 ## Server 
-MySQL
+JawsDB
 
